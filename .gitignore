@@ -10,3 +10,10 @@ $RECYCLE.BIN/
 
 #WebStorm solution files
 .idea
+
+#NPM modules and log
+node_modules/
+npm_debug.log
+
+#Karma files
+coverage/
